@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-import java.lang.Math;
 import java.util.Arrays;
-import javafx.scene.input.MouseEvent;
 
 public class Grid{
 	// numRows = easy
